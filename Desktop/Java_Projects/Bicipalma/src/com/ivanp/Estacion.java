@@ -16,7 +16,7 @@ public class Estacion {
     }
 
     public void consultarEstacion() {
-        System.out.println("ID: " + this.id + ", direccion " + this.direccion + ", numero anclajes: " + this.numeroAnclajes);
+        System.out.println("ID: " + this.id + ", direccion: " + this.direccion + ", numero anclajes: " + this.numeroAnclajes);
     }
 
     public int anclajesLibres() {
