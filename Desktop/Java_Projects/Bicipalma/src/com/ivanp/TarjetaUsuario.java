@@ -9,14 +9,6 @@ public class TarjetaUsuario {
         this.activada = activada;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public boolean isActivada() {
         return activada;
     }
